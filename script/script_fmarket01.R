@@ -7,7 +7,6 @@ library(tidyverse)
 
 
 # create a list with all file names
-#file_names <- dir('./data', pattern = '*NotaCorretagem*')
 file_names <- dir('./data', pattern = '*NotaCorretagem*')
 
 
@@ -18,7 +17,7 @@ for (i in 1:length(file_names)) {
         text_raw <- append(text_raw, doc)
 }
 
-# filter dates
+# filter date
 dates <- text_raw %>% 
         str_split('\r\n') %>% 
         unlist() %>% 
@@ -109,7 +108,7 @@ concat_6 <- str_remove(str_squish(str_c(c9_total, c10_total, c11_total, sep = ' 
 concat_7 <- str_squish(str_c(c10_dc, c11_dc, c12_dc, sep = ' '))
 
 
-# insert especific delimiter to further split vector elements
+# insert especific delimiter to further split
 concat_all <- str_c(concat_1, 
                     concat_2, 
                     concat_3, 
@@ -120,11 +119,11 @@ concat_all <- str_c(concat_1,
                     sep = ';')
 
 
-# convert into a tibble
+# convert as tibble
 df <- tbl_df(concat_all)
 
 
-# split single column dataset
+# split column
 df <- separate(df, 
                value, 
                c('negociacao', 'c_v', 'mercado', 'acao', 
@@ -141,6 +140,6 @@ df <- df %>%
 
 
 
-# export data as csv and xlsx file
+# export csv file
 write_csv(df, './output/df.csv')
         
