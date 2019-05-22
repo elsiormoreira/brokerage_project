@@ -1,53 +1,53 @@
 negociacao,c_v,mercado,acao,obs,quantidade,preco,total,d_c
-bovespa,v,vista,cielo on ej,,200,9.59,1918,c
-bovespa,v,vista,cielo on ej,#,800,9.59,7672,c
-bovespa,c,vista,petrobras pn ej,d,1000,24.11,24110,d
-bovespa,c,vista,petrobras pn ej,d#2,400,22.5,9000,d
-bovespa,c,vista,petrobras pn ej,d#,500,22.5,11250,d
-bovespa,c,vista,petrobras pn ej,d,400,22.62,9048,d
-bovespa,c,vista,petrobras pn ej,d,2000,23.93,47860,d
-bovespa,c,vista,petrobras pn ej,d,300,24,7200,d
-bovespa,c,vista,petrobras pn ej,d,700,24,16800,d
-bovespa,c,vista,petrobras pn ej,d,600,22.62,13572,d
-bovespa,c,vista,petrobras pn ej,d#2,100,22.5,2250,d
-bovespa,v,vista,petrobras pn ej,,100,23.99,2399,c
-bovespa,v,vista,petrobras pn ej,,200,23.99,4798,c
-bovespa,v,vista,petrobras pn ej,,200,23.99,4798,c
-bovespa,v,vista,petrobras pn ej,d,1000,23.97,23970,c
-bovespa,v,vista,petrobras pn ej,d,1000,23.99,23990,c
-bovespa,v,vista,petrobras pn ej,,400,23.99,9596,c
-bovespa,v,vista,petrobras pn ej,,100,23.99,2399,c
-bovespa,v,vista,petrobras pn ej,d,1000,22.52,22520,c
-bovespa,v,vista,petrobras pn ej,d,1000,24.1,24100,c
-bovespa,v,vista,petrobras pn ej,d,1000,22.51,22510,c
-bovespa,v,vista,petrobras pn ej,d,1000,24.02,24020,c
+bovespa,v,vista,cielo on ej nm,,200,9.59,1918,c
+bovespa,v,vista,cielo on ej nm,#,800,9.59,7672,c
+bovespa,c,vista,petrobras pn ej n2,d,1000,24.11,24110,d
+bovespa,c,vista,petrobras pn ej n2,d#2,400,22.5,9000,d
+bovespa,c,vista,petrobras pn ej n2,d#,500,22.5,11250,d
+bovespa,c,vista,petrobras pn ej n2,d,400,22.62,9048,d
+bovespa,c,vista,petrobras pn ej n2,d,2000,23.93,47860,d
+bovespa,c,vista,petrobras pn ej n2,d,300,24,7200,d
+bovespa,c,vista,petrobras pn ej n2,d,700,24,16800,d
+bovespa,c,vista,petrobras pn ej n2,d,600,22.62,13572,d
+bovespa,c,vista,petrobras pn ej n2,d#2,100,22.5,2250,d
+bovespa,v,vista,petrobras pn ej n2,,100,23.99,2399,c
+bovespa,v,vista,petrobras pn ej n2,,200,23.99,4798,c
+bovespa,v,vista,petrobras pn ej n2,,200,23.99,4798,c
+bovespa,v,vista,petrobras pn ej n2,d,1000,23.97,23970,c
+bovespa,v,vista,petrobras pn ej n2,d,1000,23.99,23990,c
+bovespa,v,vista,petrobras pn ej n2,,400,23.99,9596,c
+bovespa,v,vista,petrobras pn ej n2,,100,23.99,2399,c
+bovespa,v,vista,petrobras pn ej n2,d,1000,22.52,22520,c
+bovespa,v,vista,petrobras pn ej n2,d,1000,24.1,24100,c
+bovespa,v,vista,petrobras pn ej n2,d,1000,22.51,22510,c
+bovespa,v,vista,petrobras pn ej n2,d,1000,24.02,24020,c
 bovespa,c,vista,usiminas pna n1,d,900,9.64,8676,d
 bovespa,c,vista,usiminas pna n1,d,100,9.64,964,d
 bovespa,v,vista,usiminas pna n1,d,1000,9.76,9760,c
-bovespa,c,vista,itauunibanco pn ed,,1000,36.99,36990,d
-bovespa,c,vista,randon part pn,,100,9.45,945,d
-bovespa,c,vista,randon part pn,,200,9.45,1890,d
-bovespa,c,vista,randon part pn,,700,9.45,6615,d
-bovespa,v,vista,itauunibanco pn ed,,900,36.86,33174,c
-bovespa,v,vista,itauunibanco pn ed,#,100,36.86,3686,c
-bovespa,c,vista,petrobras pn ej,d,100,24.94,2494,d
-bovespa,c,vista,petrobras pn ej,d,400,24.93,9972,d
-bovespa,c,vista,petrobras pn ej,d,400,24.94,9976,d
-bovespa,c,vista,petrobras pn ej,d,100,24.93,2493,d
-bovespa,v,vista,petrobras pn ej,d,1000,24.81,24810,c
-bovespa,v,vista,randon part pn,,600,9.51,5706,c
-bovespa,v,vista,randon part pn,,300,9.51,2853,c
-bovespa,v,vista,randon part pn,,100,9.51,951,c
-bovespa,c,vista,banrisul pnb ej,d,1000,23.13,23130,d
-bovespa,v,vista,banrisul pnb ej,d,100,23.06,2306,c
-bovespa,v,vista,banrisul pnb ej,d,100,23.06,2306,c
-bovespa,v,vista,banrisul pnb ej,d,100,23.06,2306,c
-bovespa,v,vista,banrisul pnb ej,d,100,23.06,2306,c
-bovespa,v,vista,banrisul pnb ej,d,200,23.06,4612,c
-bovespa,v,vista,banrisul pnb ej,d,100,23.06,2306,c
-bovespa,v,vista,banrisul pnb ej,d,100,23.06,2306,c
-bovespa,v,vista,banrisul pnb ej,d,100,23.06,2306,c
-bovespa,v,vista,banrisul pnb ej,d,100,23.06,2306,c
+bovespa,c,vista,itauunibanco pn ed n1,,1000,36.99,36990,d
+bovespa,c,vista,randon part pn n1,,100,9.45,945,d
+bovespa,c,vista,randon part pn n1,,200,9.45,1890,d
+bovespa,c,vista,randon part pn n1,,700,9.45,6615,d
+bovespa,v,vista,itauunibanco pn ed n1,,900,36.86,33174,c
+bovespa,v,vista,itauunibanco pn ed n1,#,100,36.86,3686,c
+bovespa,c,vista,petrobras pn ej n2,d,100,24.94,2494,d
+bovespa,c,vista,petrobras pn ej n2,d,400,24.93,9972,d
+bovespa,c,vista,petrobras pn ej n2,d,400,24.94,9976,d
+bovespa,c,vista,petrobras pn ej n2,d,100,24.93,2493,d
+bovespa,v,vista,petrobras pn ej n2,d,1000,24.81,24810,c
+bovespa,v,vista,randon part pn n1,,600,9.51,5706,c
+bovespa,v,vista,randon part pn n1,,300,9.51,2853,c
+bovespa,v,vista,randon part pn n1,,100,9.51,951,c
+bovespa,c,vista,banrisul pnb ej n1,d,1000,23.13,23130,d
+bovespa,v,vista,banrisul pnb ej n1,d,100,23.06,2306,c
+bovespa,v,vista,banrisul pnb ej n1,d,100,23.06,2306,c
+bovespa,v,vista,banrisul pnb ej n1,d,100,23.06,2306,c
+bovespa,v,vista,banrisul pnb ej n1,d,100,23.06,2306,c
+bovespa,v,vista,banrisul pnb ej n1,d,200,23.06,4612,c
+bovespa,v,vista,banrisul pnb ej n1,d,100,23.06,2306,c
+bovespa,v,vista,banrisul pnb ej n1,d,100,23.06,2306,c
+bovespa,v,vista,banrisul pnb ej n1,d,100,23.06,2306,c
+bovespa,v,vista,banrisul pnb ej n1,d,100,23.06,2306,c
 bovespa,c,vista,gerdau pn n1,d,1000,15.81,15810,d
 bovespa,v,vista,gerdau pn n1,d,1000,16.06,16060,c
 bovespa,c,vista,petrobras pn n2,d,1000,25.4,25400,d
@@ -56,29 +56,29 @@ bovespa,v,vista,petrobras pn n2,d#,200,25.2,5040,c
 bovespa,c,vista,cielo on nm,,800,10.79,8632,d
 bovespa,c,vista,cielo on nm,#,200,10.79,2158,d
 bovespa,c,vista,gerdau pn n1,,500,15,7500,d
-bovespa,c,vista,itauunibanco pn ed,,500,37.6,18800,d
-bovespa,c,vista,rumo s.a. on,,200,17.53,3506,d
-bovespa,c,vista,rumo s.a. on,,300,17.53,5259,d
-bovespa,c,vista,gerdau met pn,,300,7.28,2184,d
-bovespa,c,vista,gerdau met pn,,100,7.28,728,d
-bovespa,c,vista,gerdau met pn,,100,7.28,728,d
-bovespa,c,vista,gerdau met pn,,300,7.28,2184,d
-bovespa,c,vista,gerdau met pn,,100,7.28,728,d
-bovespa,c,vista,gerdau met pn,,100,7.28,728,d
-bovespa,c,vista,brf sa on,,400,23.81,9524,d
-bovespa,c,vista,brf sa on,#2,100,23.81,2381,d
+bovespa,c,vista,itauunibanco pn ed n1,,500,37.6,18800,d
+bovespa,c,vista,rumo s.a. on nm,,200,17.53,3506,d
+bovespa,c,vista,rumo s.a. on nm,,300,17.53,5259,d
+bovespa,c,vista,gerdau met pn n1,,300,7.28,2184,d
+bovespa,c,vista,gerdau met pn n1,,100,7.28,728,d
+bovespa,c,vista,gerdau met pn n1,,100,7.28,728,d
+bovespa,c,vista,gerdau met pn n1,,300,7.28,2184,d
+bovespa,c,vista,gerdau met pn n1,,100,7.28,728,d
+bovespa,c,vista,gerdau met pn n1,,100,7.28,728,d
+bovespa,c,vista,brf sa on nm,,400,23.81,9524,d
+bovespa,c,vista,brf sa on nm,#2,100,23.81,2381,d
 bovespa,c,vista,braskem pna n1,d,100,45.93,4593,d
 bovespa,c,vista,braskem pna n1,d,300,45.94,13782,d
 bovespa,c,vista,braskem pna n1,d,100,45.93,4593,d
 bovespa,v,vista,braskem pna n1,d,100,46.07,4607,c
 bovespa,v,vista,braskem pna n1,d,100,46.07,4607,c
 bovespa,v,vista,braskem pna n1,d,300,46.06,13818,c
-bovespa,v,vista,brf sa on,,300,24.82,7446,c
-bovespa,v,vista,brf sa on,,200,24.82,4964,c
-bovespa,v,vista,gerdau met pn,,400,7.31,2924,c
-bovespa,v,vista,gerdau met pn,,600,7.31,4386,c
+bovespa,v,vista,brf sa on nm,,300,24.82,7446,c
+bovespa,v,vista,brf sa on nm,,200,24.82,4964,c
+bovespa,v,vista,gerdau met pn n1,,400,7.31,2924,c
+bovespa,v,vista,gerdau met pn n1,,600,7.31,4386,c
 bovespa,v,vista,gerdau pn n1,,500,15.41,7705,c
-bovespa,v,vista,rumo s.a. on,,500,18.6,9300,c
+bovespa,v,vista,rumo s.a. on nm,,500,18.6,9300,c
 bovespa,v,vista,itauunibanco pn n1,,500,37.45,18725,c
 bovespa,c,vista,mrv on nm,d,500,14.41,7205,d
 bovespa,v,vista,mrv on nm,d,500,14.32,7160,c
@@ -110,87 +110,87 @@ bovespa,c,vista,fleury on nm,d,500,22.04,11020,d
 bovespa,v,vista,fleury on nm,d,500,21.88,10940,c
 bovespa,c,vista,minerva on nm,d,400,5.51,2204,d
 bovespa,v,vista,minerva on nm,d,400,5.62,2248,c
-bovespa,c,vista,randon part pn,,100,9.84,984,d
-bovespa,c,vista,randon part pn,,100,9.84,984,d
-bovespa,c,vista,randon part pn,,100,9.84,984,d
-bovespa,c,vista,randon part pn,,300,9.84,2952,d
-bovespa,c,vista,randon part pn,,400,9.84,3936,d
+bovespa,c,vista,randon part pn n1,,100,9.84,984,d
+bovespa,c,vista,randon part pn n1,,100,9.84,984,d
+bovespa,c,vista,randon part pn n1,,100,9.84,984,d
+bovespa,c,vista,randon part pn n1,,300,9.84,2952,d
+bovespa,c,vista,randon part pn n1,,400,9.84,3936,d
 bovespa,c,vista,ambev s/a on,,500,18.07,9035,d
 bovespa,v,vista,cielo on nm,,1000,11.7,11700,c
-bovespa,c,vista,itauunibanco pn ed,,500,38.63,19315,d
+bovespa,c,vista,itauunibanco pn ed n1,,500,38.63,19315,d
 bovespa,v,vista,ambev s/a on,,500,18.74,9370,c
 bovespa,c,vista,marcopolo pn n2,,1000,3.76,3760,d
-bovespa,v,vista,brf sa on,,200,22.31,4462,c
-bovespa,v,vista,brf sa on,,400,22.31,8924,c
-bovespa,v,vista,brf sa on,,100,22.31,2231,c
-bovespa,v,vista,brf sa on,,100,22.31,2231,c
-bovespa,v,vista,brf sa on,,100,22.31,2231,c
-bovespa,v,vista,brf sa on,,100,22.31,2231,c
+bovespa,v,vista,brf sa on nm,,200,22.31,4462,c
+bovespa,v,vista,brf sa on nm,,400,22.31,8924,c
+bovespa,v,vista,brf sa on nm,,100,22.31,2231,c
+bovespa,v,vista,brf sa on nm,,100,22.31,2231,c
+bovespa,v,vista,brf sa on nm,,100,22.31,2231,c
+bovespa,v,vista,brf sa on nm,,100,22.31,2231,c
 bovespa,v,vista,marcopolo pn n2,,1000,3.89,3890,c
-bovespa,v,vista,randon part pn,,1000,9.86,9860,c
+bovespa,v,vista,randon part pn n1,,1000,9.86,9860,c
 bovespa,v,vista,fleury on nm,,1000,20.44,20440,c
 bovespa,v,vista,petrobras pn n2,,1000,27.03,27030,c
-bovespa,c,vista,brf sa on,,1000,22.05,22050,d
+bovespa,c,vista,brf sa on nm,,1000,22.05,22050,d
 bovespa,c,vista,fleury on nm,,300,20.28,6084,d
 bovespa,c,vista,fleury on nm,,700,20.28,14196,d
 bovespa,c,vista,minerva on nm,#,100,6.16,616,d
 bovespa,c,vista,minerva on nm,,900,6.16,5544,d
-bovespa,c,vista,petrobras br on,,500,24.68,12340,d
+bovespa,c,vista,petrobras br on nm,,500,24.68,12340,d
 bovespa,v,vista,minerva on nm,,400,6.41,2564,c
-bovespa,v,vista,minerva on nm,,NA,6.41,641,c
+bovespa,v,vista,minerva on nm,,100,6.41,641,c
 bovespa,v,vista,minerva on nm,,500,6.4,3200,c
-bovespa,v,vista,petrobras br on,,500,25.11,12555,c
-bovespa,c,vista,rumo s.a. on,,500,19.12,9560,d
-bovespa,c,vista,gerdau met pn,,100,7.38,738,d
-bovespa,c,vista,gerdau met pn,,800,7.38,5904,d
-bovespa,c,vista,gerdau met pn,,100,7.38,738,d
+bovespa,v,vista,petrobras br on nm,,500,25.11,12555,c
+bovespa,c,vista,rumo s.a. on nm,,500,19.12,9560,d
+bovespa,c,vista,gerdau met pn n1,,100,7.38,738,d
+bovespa,c,vista,gerdau met pn n1,,800,7.38,5904,d
+bovespa,c,vista,gerdau met pn n1,,100,7.38,738,d
 bovespa,c,vista,marcopolo pn n2,,1000,3.97,3970,d
 bovespa,c,vista,marfrig on nm,,900,5.42,4878,d
-bovespa,c,vista,marfrig on nm,,NA,5.42,542,d
+bovespa,c,vista,marfrig on nm,,100,5.42,542,d
 bovespa,c,vista,minerva on nm,,700,6.29,4403,d
 bovespa,c,vista,minerva on nm,,200,6.29,1258,d
 bovespa,c,vista,minerva on nm,#,100,6.29,629,d
-bovespa,c,vista,randon part pn,,1000,9.49,9490,d
-bovespa,v,vista,rumo s.a. on,,500,19.19,9595,c
+bovespa,c,vista,randon part pn n1,,1000,9.49,9490,d
+bovespa,v,vista,rumo s.a. on nm,,500,19.19,9595,c
 bovespa,v,vista,usiminas pna n1,,1000,10.05,10050,c
 bovespa,c,vista,viavarejo on nm,,1000,4.82,4820,d
 bovespa,c,vista,minerva on nm,,1000,6.49,6490,d
-bovespa,c,vista,petrobras br on,d,100,23.94,2394,d
-bovespa,c,vista,petrobras br on,d,100,23.94,2394,d
-bovespa,c,vista,petrobras br on,d,100,23.94,2394,d
-bovespa,c,vista,petrobras br on,d,700,23.94,16758,d
-bovespa,v,vista,petrobras br on,,500,24.3,12150,c
-bovespa,v,vista,petrobras br on,d,500,24.25,12125,c
-bovespa,v,vista,petrobras br on,d,500,24.25,12125,c
-bovespa,c,vista,gerdau pn ed,d,100,14.75,1475,d
-bovespa,c,vista,gerdau pn ed,d,300,14.75,4425,d
-bovespa,c,vista,gerdau pn ed,d,300,14.76,4428,d
-bovespa,c,vista,gerdau pn ed,d,100,14.75,1475,d
-bovespa,c,vista,gerdau pn ed,d,100,14.75,1475,d
-bovespa,c,vista,gerdau pn ed,d,100,14.75,1475,d
-bovespa,c,vista,gerdau pn ed,d,300,14.76,4428,d
-bovespa,c,vista,gerdau pn ed,d,300,14.76,4428,d
-bovespa,c,vista,gerdau pn ed,d,300,14.75,4425,d
-bovespa,c,vista,gerdau pn ed,d,100,14.76,1476,d
-bovespa,v,vista,gerdau pn ed,d,2000,14.66,29320,c
-bovespa,v,vista,itauunibanco pn ed,,500,36.9,18450,c
+bovespa,c,vista,petrobras br on nm,d,100,23.94,2394,d
+bovespa,c,vista,petrobras br on nm,d,100,23.94,2394,d
+bovespa,c,vista,petrobras br on nm,d,100,23.94,2394,d
+bovespa,c,vista,petrobras br on nm,d,700,23.94,16758,d
+bovespa,v,vista,petrobras br on nm,,500,24.3,12150,c
+bovespa,v,vista,petrobras br on nm,d,500,24.25,12125,c
+bovespa,v,vista,petrobras br on nm,d,500,24.25,12125,c
+bovespa,c,vista,gerdau pn ed n1,d,100,14.75,1475,d
+bovespa,c,vista,gerdau pn ed n1,d,300,14.75,4425,d
+bovespa,c,vista,gerdau pn ed n1,d,300,14.76,4428,d
+bovespa,c,vista,gerdau pn ed n1,d,100,14.75,1475,d
+bovespa,c,vista,gerdau pn ed n1,d,100,14.75,1475,d
+bovespa,c,vista,gerdau pn ed n1,d,100,14.75,1475,d
+bovespa,c,vista,gerdau pn ed n1,d,300,14.76,4428,d
+bovespa,c,vista,gerdau pn ed n1,d,300,14.76,4428,d
+bovespa,c,vista,gerdau pn ed n1,d,300,14.75,4425,d
+bovespa,c,vista,gerdau pn ed n1,d,100,14.76,1476,d
+bovespa,v,vista,gerdau pn ed n1,d,2000,14.66,29320,c
+bovespa,v,vista,itauunibanco pn ed n1,,500,36.9,18450,c
 bovespa,v,vista,minerva on nm,,500,6.54,3270,c
 bovespa,v,vista,minerva on nm,,1300,6.54,8502,c
 bovespa,v,vista,minerva on nm,,200,6.54,1308,c
 bovespa,v,vista,viavarejo on nm,,1000,4.79,4790,c
 bovespa,v,vista,ambev s/a on,,1000,16.81,16810,c
-bovespa,c,vista,itausa pn ed,,1000,12.99,12990,d
-bovespa,c,vista,itauunibanco pn ed,,500,37.11,18555,d
-bovespa,c,vista,randon part pn,,100,10.08,1008,d
-bovespa,c,vista,randon part pn,,100,10.08,1008,d
-bovespa,c,vista,randon part pn,,100,10.08,1008,d
-bovespa,c,vista,randon part pn,,100,10.08,1008,d
-bovespa,c,vista,randon part pn,,600,10.08,6048,d
-bovespa,c,vista,petrobras br on,,500,25.01,12505,d
-bovespa,v,vista,gerdau met pn,,1000,7.7,7700,c
-bovespa,c,vista,petrobras br on,,100,25.28,2528,d
-bovespa,c,vista,petrobras br on,,300,25.28,7584,d
-bovespa,c,vista,petrobras br on,,100,25.28,2528,d
+bovespa,c,vista,itausa pn ed n1,,1000,12.99,12990,d
+bovespa,c,vista,itauunibanco pn ed n1,,500,37.11,18555,d
+bovespa,c,vista,randon part pn n1,,100,10.08,1008,d
+bovespa,c,vista,randon part pn n1,,100,10.08,1008,d
+bovespa,c,vista,randon part pn n1,,100,10.08,1008,d
+bovespa,c,vista,randon part pn n1,,100,10.08,1008,d
+bovespa,c,vista,randon part pn n1,,600,10.08,6048,d
+bovespa,c,vista,petrobras br on nm,,500,25.01,12505,d
+bovespa,v,vista,gerdau met pn n1,,1000,7.7,7700,c
+bovespa,c,vista,petrobras br on nm,,100,25.28,2528,d
+bovespa,c,vista,petrobras br on nm,,300,25.28,7584,d
+bovespa,c,vista,petrobras br on nm,,100,25.28,2528,d
 bovespa,c,vista,ambev s/a on,,1000,16.78,16780,d
 bovespa,c,vista,usiminas pna n1,,1000,9.66,9660,d
 bovespa,c,vista,brasil on nm,,400,49.57,19828,d
@@ -218,10 +218,10 @@ bovespa,c,vista,ambev s/a on,d,100,17.12,1712,d
 bovespa,c,vista,ambev s/a on,d,100,17.12,1712,d
 bovespa,v,vista,ambev s/a on,d,1000,17.23,17230,c
 bovespa,c,vista,gerdau pn n1,,1000,14.95,14950,d
-bovespa,c,vista,petrobras br on,d,200,22.94,4588,d
-bovespa,c,vista,petrobras br on,d#,800,22.94,18352,d
-bovespa,v,vista,petrobras br on,d,100,22.95,2295,c
-bovespa,v,vista,petrobras br on,d,900,22.95,20655,c
+bovespa,c,vista,petrobras br on nm,d,200,22.94,4588,d
+bovespa,c,vista,petrobras br on nm,d#,800,22.94,18352,d
+bovespa,v,vista,petrobras br on nm,d,100,22.95,2295,c
+bovespa,v,vista,petrobras br on nm,d,900,22.95,20655,c
 bovespa,v,vista,ambev s/a on,,800,17.64,14112,c
 bovespa,v,vista,ambev s/a on,,200,17.64,3528,c
 bovespa,c,vista,azul pn n2,d,700,34.31,24017,d
@@ -229,12 +229,12 @@ bovespa,c,vista,azul pn n2,d,300,34.31,10293,d
 bovespa,v,vista,azul pn n2,d,900,34.76,31284,c
 bovespa,v,vista,azul pn n2,d,100,34.76,3476,c
 bovespa,v,vista,movida on nm,,1000,11.49,11490,c
-bovespa,v,vista,petrobras br on,,100,24.1,2410,c
-bovespa,v,vista,petrobras br on,,200,24.1,4820,c
-bovespa,v,vista,petrobras br on,,700,24.1,16870,c
+bovespa,v,vista,petrobras br on nm,,100,24.1,2410,c
+bovespa,v,vista,petrobras br on nm,,200,24.1,4820,c
+bovespa,v,vista,petrobras br on nm,,700,24.1,16870,c
 bovespa,c,vista,ambev s/a on,,100,17.39,1739,d
 bovespa,c,vista,ambev s/a on,,900,17.39,15651,d
-bovespa,c,vista,gerdau met pn,,2000,6.94,13880,d
+bovespa,c,vista,gerdau met pn n1,,2000,6.94,13880,d
 bovespa,c,vista,gerdau pn n1,,400,14.53,5812,d
 bovespa,c,vista,gerdau pn n1,,600,14.53,8718,d
 bovespa,c,vista,movida on nm,,1000,11.33,11330,d
@@ -246,7 +246,7 @@ bovespa,v,vista,multiplan on n2,,200,23.33,4666,c
 bovespa,v,vista,multiplan on n2,,100,23.33,2333,c
 bovespa,c,vista,multiplan on n2,,600,23.68,14208,d
 bovespa,c,vista,multiplan on n2,,400,23.68,9472,d
-bovespa,v,vista,gerdau met pn,,2000,6.96,13920,c
+bovespa,v,vista,gerdau met pn n1,,2000,6.96,13920,c
 bovespa,c,vista,multiplan on n2,d,800,23.66,18928,d
 bovespa,c,vista,multiplan on n2,d,100,23.66,2366,d
 bovespa,c,vista,multiplan on n2,d,100,23.66,2366,d
@@ -258,9 +258,9 @@ bovespa,v,vista,multiplan on n2,d,300,23.66,7098,c
 bovespa,v,vista,multiplan on n2,d,300,23.66,7098,c
 bovespa,c,vista,ambev s/a on,d,1000,18.31,18310,d
 bovespa,v,vista,ambev s/a on,d,1000,18.48,18480,c
-bovespa,c,vista,petrobras pn ed,d,1000,26.65,26650,d
-bovespa,v,vista,petrobras pn ed,d,1000,26.68,26680,c
-bovespa,v,vista,ambev s/a on,,1000,17.84,17840,c
+bovespa,c,vista,petrobras pn ed n2,d,1000,26.65,26650,d
+bovespa,v,vista,petrobras pn ed n2,d,1000,26.68,26680,c
+bovespa,v,vista,ambev s/a on,8,1000,17.84,17840,c
 bovespa,c,vista,azul pn n2,8d,800,35.64,28512,d
 bovespa,c,vista,azul pn n2,8d,100,35.23,3523,d
 bovespa,c,vista,azul pn n2,8d,100,35.64,3564,d
@@ -281,43 +281,43 @@ bovespa,c,vista,ambev s/a on,8d,2000,17.41,34820,d
 bovespa,c,vista,ambev s/a on,8d,700,17.61,12327,d
 bovespa,c,vista,ambev s/a on,8d,300,17.61,5283,d
 bovespa,v,vista,ambev s/a on,8d,2000,17.33,34660,c
-bovespa,c,vista,itauunibanco pn ed,,500,32.31,16155,d
-bovespa,c,vista,marcopolo pn n2,,1000,3.49,3490,d
-bovespa,c,vista,marcopolo pn n2,,1000,3.49,3490,d
-bovespa,c,vista,randon part pn,ed,NA,NA,NA,
+bovespa,c,vista,itauunibanco pn ed n1,8,500,32.31,16155,d
+bovespa,c,vista,marcopolo pn n2,8,1000,3.49,3490,d
+bovespa,c,vista,marcopolo pn n2,8,1000,3.49,3490,d
+bovespa,c,vista,randon part pn ed n1,8,1000,8.64,8640,
 bovespa,c,vista,usiminas pna n1,8d,2000,8.67,17340,d
 bovespa,v,vista,usiminas pna n1,8d#,100,8.69,869,c
-bovespa,v,vista,usiminas pna n1,,1000,8.72,8720,c
+bovespa,v,vista,usiminas pna n1,8,1000,8.72,8720,c
 bovespa,v,vista,usiminas pna n1,8d,1900,8.69,16511,c
 bovespa,c,vista,gerdau pn n1,8d,800,14.6,11680,d
 bovespa,c,vista,gerdau pn n1,8d,200,14.6,2920,d
 bovespa,v,vista,gerdau pn n1,8d,700,14.57,10199,c
 bovespa,v,vista,gerdau pn n1,8d,300,14.57,4371,c
 bovespa,v,vista,gerdau pn n1,8d,200,14.57,2914,c
-bovespa,v,vista,gerdau pn n1,,500,14.57,7285,c
-bovespa,v,vista,gerdau pn n1,,600,14.57,8742,c
+bovespa,v,vista,gerdau pn n1,8,500,14.57,7285,c
+bovespa,v,vista,gerdau pn n1,8,600,14.57,8742,c
 bovespa,v,vista,gerdau pn n1,8d,300,14.57,4371,c
 bovespa,v,vista,gerdau pn n1,8d#,100,14.57,1457,c
-bovespa,v,vista,gerdau pn n1,,300,14.57,4371,c
-bovespa,c,vista,itauunibanco pn ed,8d,300,33.18,9954,d
-bovespa,c,vista,itauunibanco pn ed,8d,200,33.18,6636,d
-bovespa,v,vista,itauunibanco pn ed,8d,500,33.05,16525,c
-bovespa,v,vista,itauunibanco pn ed,,100,33.35,3335,c
-bovespa,v,vista,itauunibanco pn ed,,100,33.35,3335,c
-bovespa,v,vista,itauunibanco pn ed,,100,33.35,3335,c
-bovespa,v,vista,itauunibanco pn ed,,100,33.35,3335,c
-bovespa,v,vista,itauunibanco pn ed,,500,33.15,16575,c
-bovespa,v,vista,itauunibanco pn ed,,100,33.35,3335,c
-bovespa,v,vista,marcopolo pn n2,,1000,3.52,3520,c
-bovespa,v,vista,marcopolo pn n2,,2000,3.52,7040,c
-bovespa,v,vista,randon part pn,ed,NA,NA,NA,
-bovespa,v,vista,randon part pn,ed,NA,NA,NA,
-bovespa,c,vista,itauunibanco pn ed,d,100,32.55,3255,d
-bovespa,c,vista,itauunibanco pn ed,d,800,32.55,26040,d
-bovespa,c,vista,itauunibanco pn ed,d,100,32.55,3255,d
-bovespa,c,vista,itauunibanco pn ed,d,100,32.7,3270,d
-bovespa,c,vista,itauunibanco pn ed,d,900,32.7,29430,d
-bovespa,v,vista,itauunibanco pn ed,d,2000,32.63,65260,c
+bovespa,v,vista,gerdau pn n1,8,300,14.57,4371,c
+bovespa,c,vista,itauunibanco pn ed n1,8d,300,33.18,9954,d
+bovespa,c,vista,itauunibanco pn ed n1,8d,200,33.18,6636,d
+bovespa,v,vista,itauunibanco pn ed n1,8d,500,33.05,16525,c
+bovespa,v,vista,itauunibanco pn ed n1,8,100,33.35,3335,c
+bovespa,v,vista,itauunibanco pn ed n1,8,100,33.35,3335,c
+bovespa,v,vista,itauunibanco pn ed n1,8,100,33.35,3335,c
+bovespa,v,vista,itauunibanco pn ed n1,8,100,33.35,3335,c
+bovespa,v,vista,itauunibanco pn ed n1,8,500,33.15,16575,c
+bovespa,v,vista,itauunibanco pn ed n1,8,100,33.35,3335,c
+bovespa,v,vista,marcopolo pn n2,8,1000,3.52,3520,c
+bovespa,v,vista,marcopolo pn n2,8,2000,3.52,7040,c
+bovespa,v,vista,randon part pn ed n1,8,900,8.74,7866,
+bovespa,v,vista,randon part pn ed n1,8,100,8.74,874,
+bovespa,c,vista,itauunibanco pn ed n1,d,100,32.55,3255,d
+bovespa,c,vista,itauunibanco pn ed n1,d,800,32.55,26040,d
+bovespa,c,vista,itauunibanco pn ed n1,d,100,32.55,3255,d
+bovespa,c,vista,itauunibanco pn ed n1,d,100,32.7,3270,d
+bovespa,c,vista,itauunibanco pn ed n1,d,900,32.7,29430,d
+bovespa,v,vista,itauunibanco pn ed n1,d,2000,32.63,65260,c
 bovespa,c,vista,azul pn n2,d,300,37.46,11238,d
 bovespa,c,vista,azul pn n2,d,700,37.47,26229,d
 bovespa,c,vista,azul pn n2,d,100,37.45,3745,d
@@ -423,7 +423,7 @@ bovespa,c,vista,petrobras pn n2,d,300,25.94,7782,d
 bovespa,c,vista,petrobras pn n2,d,200,25.94,5188,d
 bovespa,v,vista,petrobras pn n2,d,500,26.03,13015,c
 bovespa,v,vista,petrobras pn n2,d,1000,26.03,26030,c
-bovespa,c,vista,gerdau met pn,,1000,6.54,6540,d
+bovespa,c,vista,gerdau met pn n1,,1000,6.54,6540,d
 bovespa,c,vista,gerdau pn n1,,1500,13.85,20775,d
 bovespa,c,vista,itauunibanco pn n1,d,1000,31.5,31500,d
 bovespa,v,vista,itauunibanco pn n1,d,1000,31.57,31570,c
@@ -432,43 +432,43 @@ bovespa,c,vista,marcopolo pn n2,d,2000,3.39,6780,d
 bovespa,v,vista,marcopolo pn n2,d,2000,3.42,6840,c
 bovespa,c,vista,petrobras pn n2,d,2000,25.83,51660,d
 bovespa,v,vista,petrobras pn n2,d,1000,25.72,25720,c
-bovespa,c,vista,randon part pn,ed,400,7.94,3176,d
-bovespa,c,vista,randon part pn,ed,100,7.94,794,d
-bovespa,c,vista,randon part pn,ed,400,7.94,3176,d
-bovespa,c,vista,randon part pn,ed,100,7.94,794,d
+bovespa,c,vista,randon part pn ed n1,,400,7.94,3176,d
+bovespa,c,vista,randon part pn ed n1,,100,7.94,794,d
+bovespa,c,vista,randon part pn ed n1,,400,7.94,3176,d
+bovespa,c,vista,randon part pn ed n1,,100,7.94,794,d
 bovespa,c,vista,usiminas pna n1,#,1000,8.03,8030,d
-bovespa,c,vista,b2w digital on,d,1000,33.3,33300,d
-bovespa,v,vista,b2w digital on,d,100,33.36,3336,c
-bovespa,v,vista,b2w digital on,d,100,33.36,3336,c
-bovespa,v,vista,b2w digital on,d,700,33.36,23352,c
-bovespa,v,vista,b2w digital on,d,100,33.36,3336,c
+bovespa,c,vista,b2w digital on nm,d,1000,33.3,33300,d
+bovespa,v,vista,b2w digital on nm,d,100,33.36,3336,c
+bovespa,v,vista,b2w digital on nm,d,100,33.36,3336,c
+bovespa,v,vista,b2w digital on nm,d,700,33.36,23352,c
+bovespa,v,vista,b2w digital on nm,d,100,33.36,3336,c
 bovespa,c,vista,itauunibanco pn n1,d,1000,31.64,31640,d
 bovespa,v,vista,itauunibanco pn n1,d,1000,31.75,31750,c
 bovespa,v,vista,usiminas pna n1,,1000,8.08,8080,c
-bovespa,v,vista,gerdau met pn,ed,200,6.42,1284,c
-bovespa,v,vista,gerdau met pn,ed,2800,6.42,17976,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,325,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,325,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,650,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,325,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,325,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,650,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,325,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,650,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,650,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,650,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,325,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,650,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,650,c
+bovespa,v,vista,gerdau met pn ed n1,,200,6.42,1284,c
+bovespa,v,vista,gerdau met pn ed n1,,2800,6.42,17976,c
+bovespa,v,vista,marcopolo pn n2,,100,3.25,325,c
+bovespa,v,vista,marcopolo pn n2,,100,3.25,325,c
+bovespa,v,vista,marcopolo pn n2,,200,3.25,650,c
+bovespa,v,vista,marcopolo pn n2,,100,3.25,325,c
+bovespa,v,vista,marcopolo pn n2,,100,3.25,325,c
+bovespa,v,vista,marcopolo pn n2,,200,3.25,650,c
+bovespa,v,vista,marcopolo pn n2,,100,3.25,325,c
+bovespa,v,vista,marcopolo pn n2,,200,3.25,650,c
+bovespa,v,vista,marcopolo pn n2,,200,3.25,650,c
+bovespa,v,vista,marcopolo pn n2,,200,3.25,650,c
+bovespa,v,vista,marcopolo pn n2,,100,3.25,325,c
+bovespa,v,vista,marcopolo pn n2,,200,3.25,650,c
+bovespa,v,vista,marcopolo pn n2,,200,3.25,650,c
 bovespa,v,vista,marcopolo pn n2,#,600,3.25,1950,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,650,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,325,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,325,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,325,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,325,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,650,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,650,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,650,c
-bovespa,v,vista,marcopolo pn n2,,NA,3.25,650,c
-bovespa,v,vista,randon part pn,,1000,7.88,7880,c
+bovespa,v,vista,marcopolo pn n2,,200,3.25,650,c
+bovespa,v,vista,marcopolo pn n2,,100,3.25,325,c
+bovespa,v,vista,marcopolo pn n2,,100,3.25,325,c
+bovespa,v,vista,marcopolo pn n2,,100,3.25,325,c
+bovespa,v,vista,marcopolo pn n2,,100,3.25,325,c
+bovespa,v,vista,marcopolo pn n2,,200,3.25,650,c
+bovespa,v,vista,marcopolo pn n2,,200,3.25,650,c
+bovespa,v,vista,marcopolo pn n2,,200,3.25,650,c
+bovespa,v,vista,marcopolo pn n2,,200,3.25,650,c
+bovespa,v,vista,randon part pn n1,,1000,7.88,7880,c
 bovespa,v,vista,usiminas pna n1,,1000,7.93,7930,c
