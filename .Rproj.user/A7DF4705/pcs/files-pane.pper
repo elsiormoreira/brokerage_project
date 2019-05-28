@@ -1,9 +1,13 @@
 {
-    "path" : "C:/dev/project/R/nav_robot_project",
+    "path" : "C:/dev/project/R/brokerage",
     "sortOrder" : [
         {
             "ascending" : true,
             "columnIndex" : 2
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 1
         }
     ]
 }
